@@ -1,6 +1,6 @@
 # Projeto de Exemplo - Abstract Factory e Builder em Java
 
-Este é um projeto de exemplo desenvolvido como parte do curso da Digital Innovation One (DIO) com o objetivo de demonstrar a aplicação dos Padrões de Projeto Abstract Factory e Builder em Java.
+Este é um projeto de exemplo desenvolvido como parte do curso da Digital Innovation One (DIO) com o objetivo de demonstrar a aplicação dos Padrões de Projeto Abstract Factory e Builder em Java. Esse projeto vai crescendo a medida que eu for implementando outros padrões de projeto.
 
 ## Descrição
 
